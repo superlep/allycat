@@ -1,0 +1,13 @@
+﻿  AllyCat.cpp
+  dllmain.cpp
+c:\users\ciccio\source\repos\allycat\allycat\dllmain.cpp(207): warning C4129: 'M': sequenza di caratteri di escape sconosciuta
+c:\users\ciccio\source\repos\allycat\allycat\dllmain.cpp(207): warning C4129: 'F': sequenza di caratteri di escape sconosciuta
+c:\users\ciccio\source\repos\allycat\allycat\dllmain.cpp(53): warning C4101: 'lnKey': variabile locale senza riferimenti
+c:\users\ciccio\source\repos\allycat\allycat\dllmain.cpp(71): warning C4101: 'clsid': variabile locale senza riferimenti
+  ext_hijacker.cpp
+  res_dropper.cpp
+     Creazione della libreria C:\Users\ciccio\source\repos\AllyCat\Release\AllyCat.lib e dell'oggetto C:\Users\ciccio\source\repos\AllyCat\Release\AllyCat.exp
+  Generazione codice in corso...
+  All 432 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generazione codice terminata
+  AllyCat.vcxproj -> C:\Users\ciccio\source\repos\AllyCat\Release\AllyCat.dll

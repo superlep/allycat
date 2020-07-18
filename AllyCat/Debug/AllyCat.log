@@ -1,0 +1,7 @@
+﻿  AllyCat.cpp
+  dllmain.cpp
+c:\users\ciccio\source\repos\allycat\allycat\dllmain.cpp(53): warning C4101: 'lnKey': variabile locale senza riferimenti
+c:\users\ciccio\source\repos\allycat\allycat\dllmain.cpp(60): warning C4101: 'clsid': variabile locale senza riferimenti
+  Generazione del codice in corso...
+     Creazione della libreria C:\Users\ciccio\source\repos\AllyCat\Debug\AllyCat.lib e dell'oggetto C:\Users\ciccio\source\repos\AllyCat\Debug\AllyCat.exp
+  AllyCat.vcxproj -> C:\Users\ciccio\source\repos\AllyCat\Debug\AllyCat.dll
